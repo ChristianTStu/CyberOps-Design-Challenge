@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2024-05-10T00:02:51.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="UCrN5w0-aK5Jxr26OTcB" version="24.3.1" type="google">
+  <diagram name="Page-1" id="go_RVPXfkkX2cGG5V9bW">
+    <mxGraphModel dx="1887" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Persona Management System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="25" y="10" width="150" height="436" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Content Distribution Engine" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="231" y="10" width="150" height="436" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Launch influence operation on YouTube" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="2" edge="1">
+          <mxGeometry x="-0.1181" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="120" />
+            </Array>
+            <mxPoint x="725" y="120" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="Send persona profiles and behavior scripts" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=10;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="213" y="203" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="Post and interact with content" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="249" />
+            </Array>
+            <mxPoint x="528.5" y="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="Implement counter-detection tactics" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="682" y="295" />
+            </Array>
+            <mxPoint x="528.5" y="295" as="sourcePoint" />
+            <mxPoint x="725" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="Analyze engagement and detect feedback" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="571" y="341" />
+            </Array>
+            <mxPoint x="725" y="341" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-11" value="Persona Management System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="25" y="446" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-12" value="Content Distribution Engine" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="231" y="446" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="530" as="sourcePoint" />
+            <mxPoint x="745" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-28" value="Adjust strategies and update personas / Refine content strategy based on analytics" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="yDQGD_9TDFq7LqTxMiM7-27" connectable="0" vertex="1">
+          <mxGeometry x="-0.0455" y="3" relative="1" as="geometry">
+            <mxPoint x="10" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Monitoring and Analytics&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="635" y="-30" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Monitoring and Analytics&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="645" y="400" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.444;exitY=0.075;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="yDQGD_9TDFq7LqTxMiM7-33" target="yDQGD_9TDFq7LqTxMiM7-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="815" y="410" as="sourcePoint" />
+            <mxPoint x="845" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-35" value="Engagement Platform" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="10" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-36" value="Engagement Platform" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="446" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.549;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.549;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="yDQGD_9TDFq7LqTxMiM7-36" target="yDQGD_9TDFq7LqTxMiM7-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="440" as="sourcePoint" />
+            <mxPoint x="655" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yDQGD_9TDFq7LqTxMiM7-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-38" value="Feedback Loop" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="540" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yDQGD_9TDFq7LqTxMiM7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yDQGD_9TDFq7LqTxMiM7-38" target="yDQGD_9TDFq7LqTxMiM7-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
